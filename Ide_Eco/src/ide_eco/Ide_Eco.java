@@ -18,6 +18,7 @@ public class Ide_Eco {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola sistema");
+        System.out.println("test");
     }
     
 }
